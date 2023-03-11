@@ -1,4 +1,8 @@
-/* Use this file to use your own styles*/
+.title-job-description { 
+	color: #EE7623; 
+	text-align: left;
+	font-style: italic;
+} /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
@@ -15,7 +19,7 @@ body {
 
 .resume-header {
     background-color: #03A89E;
-	color: white ;
+	color: #F5F5F4 ;
 }
 
 .resume-main {
