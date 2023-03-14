@@ -1,9 +1,8 @@
 .title-job-description { 
 	color: #EE7623; 
 	text-align: left;
-	font-style: italic;
-	text-border: solid;
-	text-border-color: white; 
+	-webkit-text-stroke: 1px black;
+	color: orange
 } /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
