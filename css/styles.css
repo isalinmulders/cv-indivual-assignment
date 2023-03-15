@@ -5,12 +5,12 @@
 } /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Oswald', sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -21,6 +21,7 @@ body {
     background-color: #03A89E;
 	color: #F5F5F4;
 	text-align: center;
+	-webkit-text-stroke: 1px #EE7623;
 }
 
 .resume-main {
