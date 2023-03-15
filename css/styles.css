@@ -1,8 +1,7 @@
-.title-job-description { 
+.title-description { 
 	color: #EE7623; 
 	text-align: left;
 	-webkit-text-stroke: 1px black;
-	color: orange
 } /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
@@ -20,7 +19,8 @@ body {
 
 .resume-header {
     background-color: #03A89E;
-	color: #F5F5F4 ;
+	color: #F5F5F4;
+	text-align: center;
 }
 
 .resume-main {
